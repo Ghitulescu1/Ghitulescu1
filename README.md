@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghitulescu1
 - 👀 I’m interested in internships
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, C#
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me by message
 
